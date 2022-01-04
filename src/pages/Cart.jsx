@@ -184,11 +184,11 @@ const Cart = () => {
                             </ProductDetail>
                             <PriceDetail>
                                 <ProductAmountContainer>
-                                    <Add/>
+                                <Remove/>
                                     <ProductAmount>
                                         2
                                     </ProductAmount>
-                                    <Remove/>
+                                    <Add/>
                                 </ProductAmountContainer>
                                 <ProductPrice>
                                     $ 40
@@ -214,11 +214,12 @@ const Cart = () => {
                             </ProductDetail>
                             <PriceDetail>
                                 <ProductAmountContainer>
-                                    <Add/>
+                                    <Remove/>
                                     <ProductAmount>
                                         2
                                     </ProductAmount>
-                                    <Remove/>
+                                    <Add/>
+                                    
                                 </ProductAmountContainer>
                                 <ProductPrice>
                                     $ 25

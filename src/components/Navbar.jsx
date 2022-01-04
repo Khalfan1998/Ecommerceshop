@@ -6,6 +6,9 @@ import styled from 'styled-components'
 
 const Container = styled.div`
     height: 60px;
+    @media only screen and (max-width: 380px){
+        
+    }
 
 `
 

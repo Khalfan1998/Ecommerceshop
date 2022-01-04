@@ -41,6 +41,7 @@ font-size: 12px;
 margin: 20px 0px;
 `
 const Button = styled.button`
+margin-left: 360px;
 width: 40%;
 border:none;
 padding: 15px 20px;

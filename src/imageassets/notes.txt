@@ -1,9 +1,12 @@
-Backgrounds Home Page:
+TO DO:
+
+
+
 
 Video Timestamp:
 1:53:23
 
-Fix Images not showing
+
 
 
 HomePage:
@@ -16,6 +19,9 @@ https://i.postimg.cc/zfdqNqZk/daniel-lincoln-KADEo-Ll95-Gk-unsplash-removebg-pre
 
 slide3
 https://i.postimg.cc/hGGqpNzQ/amber2-removebg-preview.png
+
+
+
 
 
 Categories:

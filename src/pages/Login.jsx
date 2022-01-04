@@ -44,6 +44,7 @@ padding: 15px 20px;
 background-color: teal;
 color: white;
 cursor: pointer;
+margin-left: 230px;
 margin-bottom: 10px;
 `
 
@@ -64,9 +65,9 @@ const Login = () => {
                 <Form>
                     <Input placeholder="username"/>
                     <Input placeholder="password"/>
-                    <Button>LOGIN</Button>
                     <Link>FORGOT PASSWORD? CLICK HERE</Link>
                     <Link>CREATE A NEW ACCOUNT</Link>
+                    <Button>LOGIN</Button>
                 </Form>
             </Wrapper>
         </Container>

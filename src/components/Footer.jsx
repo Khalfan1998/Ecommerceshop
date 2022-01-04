@@ -1,4 +1,4 @@
-import { Facebook, Instagram, MailOutline, Phone, Pinterest, Room, Twitter } from "@material-ui/icons"
+import { Facebook, Instagram, MailOutline, Phone, Room, Twitter } from "@material-ui/icons"
 import styled from "styled-components"
 
 const Container = styled.div`
@@ -65,6 +65,7 @@ display: flex;
 align-items: center;
 `
 const Payment = styled.img`
+margin-left: 100px;
 width: 50%
 `
 
@@ -86,9 +87,6 @@ const Footer = () => {
                     </SocialIcon>
                     <SocialIcon color="55ACEE">
                         <Twitter/>
-                    </SocialIcon>
-                    <SocialIcon color="E60023">
-                        <Pinterest/>
                     </SocialIcon>
                 </SocialContainer>
             </Left>
@@ -134,11 +132,12 @@ const Footer = () => {
                 </ContactItem>
                 <ContactItem><Phone style={{marginRight:"10px"}}/>
                     +973 3939393
+                    <Payment src ="https://i.postimg.cc/K8HS0KJb/Payment-options-from-Carus-Jewellery.png"/>
                 </ContactItem>
                 <ContactItem><MailOutline style={{marginRight:"10px"}}/>
                     contact@gmail.com
                 </ContactItem>
-                <Payment src ="https://i.postimg.cc/K8HS0KJb/Payment-options-from-Carus-Jewellery.png"/>
+                
             </Right>
         </Container>
     )

@@ -3,7 +3,7 @@ import styled from "styled-components"
 import Announcement from "../components/Announcement"
 import Footer from "../components/Footer"
 import Navbar from "../components/Navbar"
-import Newsletter from "../components/Newsletter"
+//import Newsletter from "../components/Newsletter"
 
 const Container = styled.div``;
 
@@ -141,17 +141,7 @@ const Product = () => {
                     <br/>
                     <br/>
                     <br/>
-                    <FilterTitleColor>
-                         Color
-                    </FilterTitleColor>
-                    <FilterContainer>
-                        <Filter>
-                            
-                            <FilterColor color="black"/>  
-                            <FilterColor color="blue"/>
-                            <FilterColor color="gray"/>           
-                        </Filter>
-                        <Filter>
+                    <Filter>
                             <FilterTitle>
                                 Size
                             </FilterTitle>
@@ -173,6 +163,18 @@ const Product = () => {
                                 </FilterSizeOption>
                             </FilterSize>
                         </Filter>
+                        <br/>
+                    <FilterTitleColor>
+                         Color
+                    </FilterTitleColor>
+                    <FilterContainer>
+                        <Filter>
+                            
+                            <FilterColor color="black"/>  
+                            <FilterColor color="blue"/>
+                            <FilterColor color="gray"/>           
+                        </Filter>
+                        
                     </FilterContainer>
                     <AddContainer>
                         <AmountContainer>
@@ -184,7 +186,6 @@ const Product = () => {
                     </AddContainer>
                 </InfoContainer>
             </Wrapper>
-            <Newsletter/>
             <Footer/>
         </Container>
     )
