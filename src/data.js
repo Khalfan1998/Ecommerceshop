@@ -47,36 +47,36 @@ export const categories = [
 export const popularProducts = [
   {
     id: 1,
-    img: "https://i.postimg.cc/PxJHS97F/benjamin-rascoe-i-Nv-K2-Xmpx8o-unsplash.jpg",
+    img: "https://i.postimg.cc/KYV9Jhbz/display1-removebg-preview.png",
   },
 
   {
     id: 2,
-    img: "https://i.postimg.cc/PxJHS97F/benjamin-rascoe-i-Nv-K2-Xmpx8o-unsplash.jpg",
+    img: "https://i.postimg.cc/pTFsScVB/display2-removebg-preview.png",
   },
 
   {
     id: 3,
-    img: "https://i.postimg.cc/PxJHS97F/benjamin-rascoe-i-Nv-K2-Xmpx8o-unsplash.jpg",
+    img: "https://i.postimg.cc/d3R4s7yk/display3-removebg-preview.png",
   },
   {
     id: 4,
-    img: "https://i.postimg.cc/PxJHS97F/benjamin-rascoe-i-Nv-K2-Xmpx8o-unsplash.jpg",
+    img: "https://i.postimg.cc/jdKM8hpz/display4-removebg-preview.png",
   },
   {
     id: 5,
-    img: "https://i.postimg.cc/SQX2svKr/tobias-tullius-Fg15-Ldqp-Wrs-unsplash.jpg",
+    img: "https://i.postimg.cc/wTV0nmzn/display5-removebg-preview.png",
   },
   {
     id: 6,
-    img: "https://i.postimg.cc/SQX2svKr/tobias-tullius-Fg15-Ldqp-Wrs-unsplash.jpg",
+    img: "https://i.postimg.cc/RZZXmZVh/display6-removebg-preview.png",
   },
   {
     id: 7,
-    img: "https://i.postimg.cc/SQX2svKr/tobias-tullius-Fg15-Ldqp-Wrs-unsplash.jpg",
+    img: "https://i.postimg.cc/CxrJxpzN/display7-removebg-preview.png",
   },
   {
     id: 8,
-    img: "https://i.postimg.cc/SQX2svKr/tobias-tullius-Fg15-Ldqp-Wrs-unsplash.jpg",
+    img: "https://i.postimg.cc/8CF4FXvV/display8-removebg-preview.png",
   },
 ];

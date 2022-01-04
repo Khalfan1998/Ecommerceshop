@@ -43,6 +43,7 @@ margin: 0px 10px;
 `
 
 const Bottom = styled.div`
+margin-Top: 62px;
 display: flex;
 justify-content: space-between;
 ${mobile({ flexDirection: "column" })}
@@ -60,6 +61,7 @@ flex: 2;
 display: flex;
 `
 const Image = styled.img`
+height: 180px;
 width: 200px;
 `
 const Details = styled.div`
@@ -152,7 +154,7 @@ const Cart = () => {
             <Announcement/>
             <Wrapper>
                 <Title>
-                    YOUR BAG
+                    YOUR SHOPPING CART
                 </Title>
                 <Top>
                     <TopButton>
@@ -174,7 +176,7 @@ const Cart = () => {
                     <Info>
                         <Product>
                             <ProductDetail>
-                                <Image src="https://i.postimg.cc/SQX2svKr/tobias-tullius-Fg15-Ldqp-Wrs-unsplash.jpg"/>
+                                <Image src="https://i.postimg.cc/CxrJxpzN/display7-removebg-preview.png"/>
                                 <Details>
                                     <ProductName>
                                         <b>Product:</b> LACOSTE JACKET
@@ -204,7 +206,7 @@ const Cart = () => {
                         <Hr/>
                         <Product>
                             <ProductDetail>
-                                <Image src="https://i.postimg.cc/fTwGC607/hatnew.jpg"/>
+                                <Image src="https://i.postimg.cc/pTFsScVB/display2-removebg-preview.png"/>
                                 <Details>
                                     <ProductName>
                                         <b>Product:</b> LACOSTE HAT
