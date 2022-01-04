@@ -18,7 +18,7 @@ export const sliderItems = [
   {
     id: 3,
     img: "https://i.postimg.cc/hGGqpNzQ/amber2-removebg-preview.png",
-    title: "LOUNGWEAR LOVE",
+    title: "WINTER COLLECTION",
     desc: "DONT MISS OUT ON OUR SALE! 30% OFF!",
     bg: "fbf0f4",
   },
@@ -61,7 +61,7 @@ export const popularProducts = [
   },
   {
     id: 4,
-    img: "https://i.postimg.cc/SQX2svKr/tobias-tullius-Fg15-Ldqp-Wrs-unsplash.jpg",
+    img: "https://i.postimg.cc/PxJHS97F/benjamin-rascoe-i-Nv-K2-Xmpx8o-unsplash.jpg",
   },
   {
     id: 5,
@@ -73,10 +73,10 @@ export const popularProducts = [
   },
   {
     id: 7,
-    img: "https://i.postimg.cc/8crSSWNR/yang-deng-2lo-Kxdi6-Hmo-unsplash.jpg",
+    img: "https://i.postimg.cc/SQX2svKr/tobias-tullius-Fg15-Ldqp-Wrs-unsplash.jpg",
   },
   {
     id: 8,
-    img: "https://i.postimg.cc/8crSSWNR/yang-deng-2lo-Kxdi6-Hmo-unsplash.jpg",
+    img: "https://i.postimg.cc/SQX2svKr/tobias-tullius-Fg15-Ldqp-Wrs-unsplash.jpg",
   },
 ];
