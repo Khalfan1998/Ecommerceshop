@@ -26,7 +26,7 @@ const Info = styled.div`
 `
 const Title = styled.h1`
     color: black;
-    background-color: lightgrey;
+    background-color: white;
     margin-bottom: 20px;
 `
 const Button = styled.button`
